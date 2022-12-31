@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leba9999&show_icons=true&theme=radical)
+
 <!--
 **leba9999/leba9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
