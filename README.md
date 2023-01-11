@@ -6,7 +6,7 @@ Small bullet points about me:
 - 🛠️ Part-time worker at [Vaisala](www.vaisala.com)
 - Interested in software development, web technologies, databases, algorithms and machine learning
 - Eager to learn new technologies
-- Love to do Backend and Frontend so i might be full-stack developer
+- Love to work with Backend and Frontend
 - Need new feature ideas to add into project? I have infinite amount of ideas
 - You don't find error or bug in your code? I will look for it, I will find it, and I will fix it
 
