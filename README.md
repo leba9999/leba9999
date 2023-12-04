@@ -3,7 +3,7 @@ I am software engineer student, who uses github sometimes and other times gitlab
 
 Small bullet points about me:
 - 🎓 Student at [Metropolia](https://www.metropolia.fi/en)
-- 🛠️ Part-time worker at [Vaisala](www.vaisala.com)
+- 🛠️ Part-time worker at [Vaisala](https://www.vaisala.com/en)
 - Interested in software development, web technologies, databases, algorithms and machine learning
 - Eager to learn new technologies
 - Love to work with Backend and Frontend
